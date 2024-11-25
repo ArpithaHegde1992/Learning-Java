@@ -1,4 +1,5 @@
-package com.test;
+package assignments;
+// assignment 23
 //find area os 10 circles using random r bn 0 and 1
 public class Areaof10Circles {
 	

@@ -1,11 +1,14 @@
-package com.test;
+package assignments;
 
-public class Vaiva {
+public class MultipleIfBlock {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Assignment 30 
+		//multiple if block
+		
+		
 int age;
-		age=148;
+		age=38;
 		if(age<50) 
 		{
 			
